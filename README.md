@@ -9,3 +9,9 @@ Second project of [Javascript 30 days challenge](https://javascript30.com/) from
 - add numbers
 - customize styling
 - make responsive
+
+##notions
+- Date object
+- style modification
+- setInterval
+- string litteral
